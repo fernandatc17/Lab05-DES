@@ -66,3 +66,4 @@ C:\Users\FernandaTC\source\repos\Lab05\Lab05\obj\Debug\net8.0-windows\refint\Lab
 C:\Users\FernandaTC\source\repos\Lab05\Lab05\obj\Debug\net8.0-windows\Lab05.pdb
 C:\Users\FernandaTC\source\repos\Lab05\Lab05\obj\Debug\net8.0-windows\Lab05.genruntimeconfig.cache
 C:\Users\FernandaTC\source\repos\Lab05\Lab05\obj\Debug\net8.0-windows\ref\Lab05.dll
+C:\Users\FernandaTC\source\repos\Lab05\Lab05\obj\Debug\net8.0-windows\Lab05.sourcelink.json
